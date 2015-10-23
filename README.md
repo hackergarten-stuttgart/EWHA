@@ -5,16 +5,11 @@ Embedded Wireless Homeautomation
 Following the projects are listed, we realized from Hackergarten to Hackergarten
 
 ## Node, Gateway - ping-pong
-todo
+[DIY encrypted lightweight radio transmission](https://blog.codecentric.de/en/2015/08/diy-encrypted-lightweight-radio-transmission/)
 
-## Servo-Gateway
-todo
-
-
-## Poti-Node
-todo
+## Poti-Node Radio Connected with Servo-Gateway
+[Driving a Servo on Arduino from a remote Arduino over secured radio](http://pilhuhn.blogspot.de/2015/10/driving-servo-on-arduino-from-remote.html)
 
 
 # TODOs
-* upload first hackergarten tutorial and stuff
 * select a license and create a license file
